@@ -200,9 +200,9 @@
   </code>
 </pre>
 ### ===Lv4===
-###1.輸入成績判斷ABCD 
+### 1.輸入成績判斷ABCD 
 > //輸入一個分數 ,顯示90以上A, 80以上B, 70以上C, 60以上D
-###2.CheckLogin
+### 2.CheckLogin
 <pre>
   <code>
   /*
