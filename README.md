@@ -214,3 +214,23 @@ CheckLogin:
 */
   </code>
 </pre>
+### 3.建一个 函数，把 obj 所有的数值属性都乘以 2。(判斷typeof)
+<pre>
+  <code>
+ // 在调用之前
+let menu = {
+  width: 200,
+  height: 300,
+  title: "My menu"
+};
+
+multiplyNumeric(menu);
+
+// 调用函数之后
+menu = {
+  width: 400,
+  height: 600,
+  title: "My menu"
+};
+  </code>
+</pre>
